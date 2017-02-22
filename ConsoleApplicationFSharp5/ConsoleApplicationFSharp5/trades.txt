@@ -1,0 +1,507 @@
+﻿ProductId: 29564
+TradeId: 741674
+TradeType: Cash
+Quantity: 32
+-----end of trade 741674-----
+ProductId: 46521
+TradeId: 972085
+TradeType: Cash
+Quantity: 31
+-----end of trade 972085-----
+ProductId: 46521
+TradeId: 270237
+TradeType: Cash
+Quantity: 42
+-----end of trade 270237-----
+ProductId: 50032
+TradeId: 997931
+TradeType: Spot
+Quantity: -20
+-----end of trade 997931-----
+ProductId: 46521
+TradeId: 198925
+TradeType: Cash
+Quantity: -17
+-----end of trade 198925-----
+ProductId: 50032
+TradeId: 204780
+TradeType: Forward
+Quantity: 12
+-----end of trade 204780-----
+ProductId: 98870
+TradeId: 171947
+TradeType: Cash
+Quantity: 23
+-----end of trade 171947-----
+ProductId: 44870
+TradeId: 857045
+TradeType: Cash
+Quantity: -35
+-----end of trade 857045-----
+ProductId: 46521
+TradeId: 933943
+TradeType: Forward
+Quantity: -90
+-----end of trade 933943-----
+ProductId: 46521
+TradeId: 558728
+TradeType: Cash
+Quantity: -23
+-----end of trade 558728-----
+ProductId: 50032
+TradeId: 512020
+TradeType: Forward
+Quantity: 94
+-----end of trade 512020-----
+ProductId: 44870
+TradeId: 820481
+TradeType: Spot
+Quantity: -45
+-----end of trade 820481-----
+ProductId: 50032
+TradeId: 614687
+TradeType: Cash
+Quantity: 19
+-----end of trade 614687-----
+ProductId: 44870
+TradeId: 299418
+TradeType: Cash
+Quantity: -75
+-----end of trade 299418-----
+ProductId: 44870
+TradeId: 234037
+TradeType: Forward
+Quantity: -86
+-----end of trade 234037-----
+ProductId: 98870
+TradeId: 441699
+TradeType: Cash
+Quantity: -20
+-----end of trade 441699-----
+ProductId: 46521
+TradeId: 979366
+TradeType: Spot
+Quantity: -64
+-----end of trade 979366-----
+ProductId: 50032
+TradeId: 317662
+TradeType: Option
+Amount: -82
+-----end of trade 317662-----
+ProductId: 46521
+TradeId: 885045
+TradeType: Cash
+Quantity: 41
+-----end of trade 885045-----
+ProductId: 50032
+TradeId: 615636
+TradeType: Cash
+Quantity: 91
+-----end of trade 615636-----
+ProductId: 50032
+TradeId: 493213
+TradeType: Option
+Amount: -60
+-----end of trade 493213-----
+ProductId: 44870
+TradeId: 894932
+TradeType: Forward
+Quantity: 96
+-----end of trade 894932-----
+ProductId: 46521
+TradeId: 445865
+TradeType: Spot
+Quantity: -85
+-----end of trade 445865-----
+ProductId: 46521
+TradeId: 795920
+TradeType: Option
+Amount: -64
+-----end of trade 795920-----
+ProductId: 44870
+TradeId: 844725
+TradeType: Spot
+Quantity: 12
+-----end of trade 844725-----
+ProductId: 46521
+TradeId: 562209
+TradeType: Option
+Amount: -11
+-----end of trade 562209-----
+ProductId: 50032
+TradeId: 118164
+TradeType: Cash
+Quantity: -92
+-----end of trade 118164-----
+ProductId: 50032
+TradeId: 507955
+TradeType: Spot
+Quantity: 55
+-----end of trade 507955-----
+ProductId: 50032
+TradeId: 292663
+TradeType: Spot
+Quantity: -47
+-----end of trade 292663-----
+ProductId: 44870
+TradeId: 541464
+TradeType: Cash
+Quantity: 80
+-----end of trade 541464-----
+ProductId: 50032
+TradeId: 490446
+TradeType: Cash
+Quantity: 16
+-----end of trade 490446-----
+ProductId: 50032
+TradeId: 445083
+TradeType: Option
+Amount: -99
+-----end of trade 445083-----
+ProductId: 29564
+TradeId: 260993
+TradeType: Option
+Amount: 25
+Quantity: -51
+-----end of trade 260993-----
+ProductId: 46521
+TradeId: 171284
+TradeType: Spot
+Quantity: 75
+-----end of trade 171284-----
+ProductId: 29564
+TradeId: 565184
+TradeType: Cash
+Quantity: -90
+-----end of trade 565184-----
+ProductId: 44870
+TradeId: 327695
+TradeType: Option
+Amount: -10
+-----end of trade 327695-----
+ProductId: 50032
+TradeId: 247185
+TradeType: Cash
+Quantity: -86
+-----end of trade 247185-----
+ProductId: 29564
+TradeId: 655885
+TradeType: Forward
+Quantity: 2
+-----end of trade 655885-----
+ProductId: 29564
+TradeId: 393916
+TradeType: Forward
+Quantity: 40
+-----end of trade 393916-----
+ProductId: 44870
+TradeId: 869168
+TradeType: Option
+Amount: 33
+Quantity: 66
+-----end of trade 869168-----
+ProductId: 44870
+TradeId: 980288
+TradeType: Spot
+Quantity: -17
+-----end of trade 980288-----
+ProductId: 50032
+TradeId: 488614
+TradeType: Spot
+Quantity: -24
+-----end of trade 488614-----
+ProductId: 44870
+TradeId: 395983
+TradeType: Forward
+Quantity: 87
+-----end of trade 395983-----
+ProductId: 29564
+TradeId: 860140
+TradeType: Cash
+Quantity: -79
+-----end of trade 860140-----
+ProductId: 50032
+TradeId: 429848
+TradeType: Option
+Amount: 14
+-----end of trade 429848-----
+ProductId: 98870
+TradeId: 725746
+TradeType: Cash
+Quantity: 29
+-----end of trade 725746-----
+ProductId: 98870
+TradeId: 260890
+TradeType: Forward
+Quantity: 10
+-----end of trade 260890-----
+ProductId: 44870
+TradeId: 440437
+TradeType: Forward
+Quantity: -85
+-----end of trade 440437-----
+ProductId: 29564
+TradeId: 509886
+TradeType: Cash
+Quantity: -53
+-----end of trade 509886-----
+ProductId: 29564
+TradeId: 178721
+TradeType: Option
+Amount: 74
+-----end of trade 178721-----
+ProductId: 50032
+TradeId: 759323
+TradeType: Forward
+Quantity: -37
+-----end of trade 759323-----
+ProductId: 46521
+TradeId: 121846
+TradeType: Forward
+Quantity: -41
+-----end of trade 121846-----
+ProductId: 44870
+TradeId: 214771
+TradeType: Cash
+Quantity: 74
+-----end of trade 214771-----
+ProductId: 50032
+TradeId: 606515
+TradeType: Cash
+Quantity: -64
+-----end of trade 606515-----
+ProductId: 46521
+TradeId: 801816
+TradeType: Cash
+Quantity: -93
+-----end of trade 801816-----
+ProductId: 44870
+TradeId: 872292
+TradeType: Cash
+Quantity: -44
+-----end of trade 872292-----
+ProductId: 50032
+TradeId: 748142
+TradeType: Option
+Amount: 19
+-----end of trade 748142-----
+ProductId: 44870
+TradeId: 164631
+TradeType: Cash
+Quantity: -93
+-----end of trade 164631-----
+ProductId: 98870
+TradeId: 492486
+TradeType: Cash
+Quantity: 77
+-----end of trade 492486-----
+ProductId: 29564
+TradeId: 572320
+TradeType: Option
+Amount: -65
+Quantity: 78
+-----end of trade 572320-----
+ProductId: 98870
+TradeId: 953449
+TradeType: Cash
+Quantity: 18
+-----end of trade 953449-----
+ProductId: 46521
+TradeId: 708230
+TradeType: Option
+Amount: 100
+Quantity: 6
+-----end of trade 708230-----
+ProductId: 46521
+TradeId: 979448
+TradeType: Cash
+Quantity: -46
+-----end of trade 979448-----
+ProductId: 44870
+TradeId: 848568
+TradeType: Forward
+Quantity: -39
+-----end of trade 848568-----
+ProductId: 46521
+TradeId: 595214
+TradeType: Cash
+Quantity: -86
+-----end of trade 595214-----
+ProductId: 46521
+TradeId: 903755
+TradeType: Cash
+Quantity: 75
+-----end of trade 903755-----
+ProductId: 46521
+TradeId: 472757
+TradeType: Option
+Amount: -49
+Quantity: 23
+-----end of trade 472757-----
+ProductId: 50032
+TradeId: 175972
+TradeType: Option
+Amount: 64
+-----end of trade 175972-----
+ProductId: 50032
+TradeId: 158163
+TradeType: Cash
+Quantity: -10
+-----end of trade 158163-----
+ProductId: 44870
+TradeId: 719582
+TradeType: Cash
+Quantity: 93
+-----end of trade 719582-----
+ProductId: 98870
+TradeId: 431815
+TradeType: Cash
+Quantity: 83
+-----end of trade 431815-----
+ProductId: 50032
+TradeId: 862909
+TradeType: Spot
+Quantity: -79
+-----end of trade 862909-----
+ProductId: 44870
+TradeId: 526796
+TradeType: Cash
+Quantity: 79
+-----end of trade 526796-----
+ProductId: 50032
+TradeId: 782183
+TradeType: Forward
+Quantity: 77
+-----end of trade 782183-----
+ProductId: 50032
+TradeId: 380031
+TradeType: Cash
+Quantity: -27
+-----end of trade 380031-----
+ProductId: 44870
+TradeId: 986303
+TradeType: Cash
+Quantity: -98
+-----end of trade 986303-----
+ProductId: 29564
+TradeId: 355221
+TradeType: Cash
+Quantity: 43
+-----end of trade 355221-----
+ProductId: 98870
+TradeId: 110538
+TradeType: Cash
+Quantity: -82
+-----end of trade 110538-----
+ProductId: 46521
+TradeId: 514570
+TradeType: Spot
+Quantity: 34
+-----end of trade 514570-----
+ProductId: 44870
+TradeId: 690452
+TradeType: Forward
+Quantity: 36
+-----end of trade 690452-----
+ProductId: 98870
+TradeId: 236471
+TradeType: Cash
+Quantity: -80
+-----end of trade 236471-----
+ProductId: 29564
+TradeId: 324857
+TradeType: Cash
+Quantity: 38
+-----end of trade 324857-----
+ProductId: 46521
+TradeId: 275290
+TradeType: Forward
+Quantity: 57
+-----end of trade 275290-----
+ProductId: 50032
+TradeId: 425689
+TradeType: Cash
+Quantity: 11
+-----end of trade 425689-----
+ProductId: 50032
+TradeId: 517788
+TradeType: Forward
+Quantity: -8
+-----end of trade 517788-----
+ProductId: 29564
+TradeId: 820058
+TradeType: Cash
+Quantity: -41
+-----end of trade 820058-----
+ProductId: 46521
+TradeId: 402814
+TradeType: Spot
+Quantity: 31
+-----end of trade 402814-----
+ProductId: 98870
+TradeId: 873287
+TradeType: Cash
+Quantity: -66
+-----end of trade 873287-----
+ProductId: 44870
+TradeId: 174939
+TradeType: Option
+Amount: 1
+Quantity: 64
+-----end of trade 174939-----
+ProductId: 98870
+TradeId: 356034
+TradeType: Cash
+Quantity: -26
+-----end of trade 356034-----
+ProductId: 98870
+TradeId: 597944
+TradeType: Cash
+Quantity: 16
+-----end of trade 597944-----
+ProductId: 98870
+TradeId: 939188
+TradeType: Cash
+Quantity: 82
+-----end of trade 939188-----
+ProductId: 44870
+TradeId: 200711
+TradeType: Forward
+Quantity: 80
+-----end of trade 200711-----
+ProductId: 46521
+TradeId: 548145
+TradeType: Spot
+Quantity: 13
+-----end of trade 548145-----
+ProductId: 44870
+TradeId: 926937
+TradeType: Cash
+Quantity: -42
+-----end of trade 926937-----
+ProductId: 50032
+TradeId: 889565
+TradeType: Option
+Amount: 31
+Quantity: -38
+-----end of trade 889565-----
+ProductId: 29564
+TradeId: 793487
+TradeType: Cash
+Quantity: 16
+-----end of trade 793487-----
+ProductId: 46521
+TradeId: 576676
+TradeType: Cash
+Quantity: 64
+-----end of trade 576676-----
+ProductId: 46521
+TradeId: 657716
+TradeType: Forward
+Quantity: -43
+-----end of trade 657716-----
+ProductId: 29564
+TradeId: 771855
+TradeType: Option
+Amount: 31
+-----end of trade 771855-----
